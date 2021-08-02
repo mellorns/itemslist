@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 700px;
+  border: 1px solid #61dafb;
+  margin: 0 auto;
+  border-radius: 30px;
+}
+.AppHeader {
+  height: 50px;
+  text-decoration-line: underline;
+  background-color: #a3ecff;
+  border-radius: 30px 30px 0px 0px;
+}
+

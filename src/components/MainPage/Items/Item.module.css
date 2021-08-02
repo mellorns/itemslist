@@ -1,0 +1,61 @@
+.item  img {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 30px;
+    overflow: hidden;
+
+}
+.item {
+    border: 1px solid #f5d0d0;
+    border-radius: 20px;
+    margin: 5px;
+    width: 690px;
+    text-align: left;
+}
+.itemDescription {
+    text-align: left;
+    width: 500px;
+}
+.imgBlock {
+    width: 110px;
+}
+.addInfLink {
+    color: white;
+    border-radius: 30px;
+    border: 1px solid #fc9b9b;
+    width: 30px;
+    height: 10px;
+    text-decoration: none;
+    background-color: #fc9b9b;
+    font-size: 15px;
+}
+.addInfLink:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.itemDescription div {
+    color: #f58181;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+}
+.deleteButton {
+    background-color: white;
+    border: 1px solid #ffbfbf;
+    color: black;
+    padding: 15px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 30px;
+}
+.deleteButton:hover {
+    background-color: #fcafaf;
+
+    color: #731b1b;
+    text-decoration: none;
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mellorns/listofitems/static/css/main.b86de8f6.chunk.css",
+    "main.js": "/mellorns/listofitems/static/js/main.b105082a.chunk.js",
+    "main.js.map": "/mellorns/listofitems/static/js/main.b105082a.chunk.js.map",
+    "runtime-main.js": "/mellorns/listofitems/static/js/runtime-main.e7528b80.js",
+    "runtime-main.js.map": "/mellorns/listofitems/static/js/runtime-main.e7528b80.js.map",
+    "static/js/2.22ae79d7.chunk.js": "/mellorns/listofitems/static/js/2.22ae79d7.chunk.js",
+    "static/js/2.22ae79d7.chunk.js.map": "/mellorns/listofitems/static/js/2.22ae79d7.chunk.js.map",
+    "static/js/3.ec8bab8c.chunk.js": "/mellorns/listofitems/static/js/3.ec8bab8c.chunk.js",
+    "static/js/3.ec8bab8c.chunk.js.map": "/mellorns/listofitems/static/js/3.ec8bab8c.chunk.js.map",
+    "index.html": "/mellorns/listofitems/index.html",
+    "static/css/main.b86de8f6.chunk.css.map": "/mellorns/listofitems/static/css/main.b86de8f6.chunk.css.map",
+    "static/js/2.22ae79d7.chunk.js.LICENSE.txt": "/mellorns/listofitems/static/js/2.22ae79d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7528b80.js",
+    "static/js/2.22ae79d7.chunk.js",
+    "static/css/main.b86de8f6.chunk.css",
+    "static/js/main.b105082a.chunk.js"
+  ]
+}
