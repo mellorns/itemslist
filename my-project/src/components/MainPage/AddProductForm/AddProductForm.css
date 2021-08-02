@@ -1,0 +1,109 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+
+#myBtn {
+    background-color: #009879;
+    color: white;
+    padding: 12px 16px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    width: 180px;
+}
+
+
+.modal {
+    display: block; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+
+.modal-content {
+    position: relative;
+    margin: auto;
+    padding: 0;
+    background-color: #009898;
+    width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s;
+    border-radius: 70px;
+
+}
+
+
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #009898;
+    color: white;
+    border-radius: 70px;
+}
+
+.modal-body {
+    padding: 2px 16px;
+
+}
+.modal-body td{
+    padding: 2px 16px;
+    color: #ffffff;
+    background-color: #009898;
+}
+
+
+form div {
+    margin: 10px;
+    color: white;
+}
+form button {
+    background-color: #3dbdbd; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+form button:hover {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
